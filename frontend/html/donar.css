@@ -1,0 +1,20 @@
+
+a{
+	text-decoration-line: none;
+}
+body{
+	padding-top: 5%;
+	background-color: beige;
+}
+.box{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:400px;
+	padding:40px;
+	background:beige;
+	box-sizing:border-box;
+	box-shadow:0 15px 25px red;
+	border-radius:10px;
+}
